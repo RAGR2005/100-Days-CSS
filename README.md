@@ -1,1 +1,1 @@
-Try to learn CSS by doing these 100 day css challenge
+                                           Trying to learn CSS by doing these 100 day css challenge
